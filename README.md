@@ -14,6 +14,7 @@ Este é um aplicativo simples de previsão do tempo que permite buscar informaç
 Aqui está uma prévia de como o aplicativo se parece:
 
 (![Image](https://github.com/user-attachments/assets/b37b0a35-52e2-42ea-8304-a883b2eff0bb)
+<img src="assets/image_b2fcb8.png" width="200">
 
 ## 🛠️ Tecnologias Utilizadas
 
