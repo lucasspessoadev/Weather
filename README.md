@@ -13,9 +13,7 @@ Este é um aplicativo simples de previsão do tempo que permite buscar informaç
 
 Aqui está uma prévia de como o aplicativo se parece:
 
-div align="center"
-img src="[https://desblogada.files.wordpress.co...](https://github.com/user-attachments/assets/b37b0a35-52e2-42ea-8304-a883b2eff0bb))" width="0px" /
-/div
+![Demonstração do Aplicativo de Clima](assets/image_b2fcb8.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
