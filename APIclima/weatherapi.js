@@ -19,7 +19,7 @@ function alterarCorFundo(temperatura) {
 }
 
 async function pesquisarClima(cidade) {
-    const key = 'd1ae50a228974572895183722252905';
+    const key = 'COLOQUE SUA KEY AQUI';
     const url = `https://api.weatherapi.com/v1/current.json?key=${key}&q=${cidade}&aqi=no`;
     const response = await fetch(url);
     const data = await response.json();
