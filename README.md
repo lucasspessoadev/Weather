@@ -59,9 +59,9 @@ Siga estes passos para configurar e executar o projeto em seu ambiente de desenv
     * Abra o arquivo `weatherapi.js`.
     * Encontre a linha que define a chave da API:
         ```javascript
-        const key = 'd1ae50a228974572895183722252905';
+        const key = 'COLOQUE SUA KEY AQUI';
         ```
-    * Substitua `'d1ae50a228974572895183722252905'` pela sua chave de API da WeatherAPI.com que você obteve no passo 1.
+    * Substitua `'COLOQUE SUA KEY AQUI'` pela sua chave de API da WeatherAPI.com que você obteve no passo 1.
 
 ### 3. Instale a Extensão "Live Server" (Recomendado)
 
