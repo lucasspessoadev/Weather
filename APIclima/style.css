@@ -10,7 +10,13 @@
 }
 
 body {
-    background-color: var(--bg-color); 
+    background-color: var(--body-color); 
+    transition: 1s;
+}
+
+.weather-card {
+    background-color: var(--bg-color);
+    transition: 1s;
 }
 
 main {

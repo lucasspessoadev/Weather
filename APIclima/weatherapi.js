@@ -14,6 +14,8 @@ function alterarCorFundo(temperatura) {
     }
     
     document.documentElement.style.setProperty('--bg-color', corFundo);
+    document.documentElement.style.setProperty('--text-color', '#000');
+    document.documentElement.style.setProperty('--body-color', `${corFundo}55`);
 }
 
 async function pesquisarClima(cidade) {
