@@ -15,11 +15,11 @@ function alterarCorFundo(temperatura) {
     
     document.documentElement.style.setProperty('--bg-color', corFundo);
     document.documentElement.style.setProperty('--text-color', '#000');
-    document.documentElement.style.setProperty('--body-color', `${corFundo}55`);
+    document.documentElement.style.setProperty('--body-color', `${corFundo}40`);
 }
 
 async function pesquisarClima(cidade) {
-    const key = 'COLOQUE SUA KEY AQUI';
+    const key = 'd1ae50a228974572895183722252905';
     const url = `https://api.weatherapi.com/v1/current.json?key=${key}&q=${cidade}&aqi=no`;
     const response = await fetch(url);
     const data = await response.json();
